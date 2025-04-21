@@ -1,6 +1,6 @@
 <h1 align="center">Meu Projeto de Chatbot com OpenAI</h1>
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 > *Transforme suas ideias em código com a ajuda de um chatbot inteligente alimentado pela OpenAI!*
 
@@ -70,9 +70,6 @@ Sinta-se à vontade para contribuir com o projeto! Você pode melhorar o chatbot
 Desenvolvedor:
 Guilherme Rodrigues de Quadros
 
-Licença
-Este projeto é licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
-
 
 ### Como Funciona o README:
 - **Título e badge de licença**: Um título chamativo centralizado e uma badge de licença para deixar o projeto claro.
@@ -81,10 +78,5 @@ Este projeto é licenciado sob a licença MIT - veja o arquivo LICENSE para mais
 - **Instalação**: Passo a passo para rodar o projeto localmente.
 - **Exemplo de uso**: Mostra o que o usuário pode fazer com o chatbot, interagindo com ele.
 - **Contribuições**: Incentiva outras pessoas a contribuírem para o projeto.
-- **Licença**: Informa a licença do projeto.
 
-### Para atualizar seu repositório no GitHub:
 
-1. **Adicione o arquivo modificado**:
-   ```bash
-   git add README.md
