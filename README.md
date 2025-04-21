@@ -6,21 +6,16 @@
 
 <p align="center">
   <img
-    src="./assets/banner.png" width="800"
+    src="./assets/img1.png" width="800"
   />
 </p>
 
 Este é um projeto que utiliza o modelo de linguagem da OpenAI para criar chatbots poderosos. A ideia é transformar código em explicações acessíveis e construir bots que podem responder e interagir com os usuários.
 
-- Acesse o [tutorial completo no YouTube](https://youtu.be/AFY67zOpbSo) para mais detalhes!
+
 
 ## ⭐ Funcionalidades do Projeto
 
-<p align="center">
-    <img
-      src="./assets/example.png" width="600"
-    />
-</p>
 
 🤖 Este chatbot é capaz de:
 
