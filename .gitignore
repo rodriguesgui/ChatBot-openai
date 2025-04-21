@@ -1,9 +1,17 @@
-# Ignorar o arquivo .env com a chave da API
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Ambiente
 .env
 
-# Ignorar arquivos de log
-*.log
+# IDEs
+.vscode/
+.idea/
 
-# Ignorar a pasta de compilação
-__pycache__/
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
 
