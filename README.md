@@ -36,6 +36,7 @@ Siga os passos abaixo para configurar o projeto em seu ambiente local:
     
 2. Instale as dependências
     Navegue até a pasta do projeto e instale as dependências necessárias:
+
     ```bash
     cd ChatBot-openai
     pip install -r requirements.txt
@@ -43,6 +44,7 @@ Siga os passos abaixo para configurar o projeto em seu ambiente local:
 
 3. Configure as credenciais da OpenAI
     Crie um arquivo .env na raiz do projeto e adicione sua chave de API da OpenAI:
+
     ```bash
     python chatbot.py
     ```
@@ -54,12 +56,14 @@ Aqui estão alguns exemplos de interações que você pode ter com o chatbot:
 Perguntar sobre o código:
 
 Exemplo:
+
     ```bash
         O que esse código faz?
     ```
 
 Obter explicações sobre funções:
 Exemplo:
+
     ```bash
         Me explique a função "calcular_media".
     ```
